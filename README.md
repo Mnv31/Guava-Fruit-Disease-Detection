@@ -5,28 +5,39 @@
 📊 Dataset
 
 Source: Kaggle
+
 Dataset Name: Guava Disease Dataset
+
 Link: https://www.kaggle.com/datasets/asadullahgalib/guava-disease-datase
+
 ⚠️ Dataset is not included in this repository due to size and licensing constraints.
 
 🧠 Methodology
 
 Image preprocessing and normalization
+
 Data augmentation to reduce overfitting
+
 Transfer learning using VGG16
+
 Training and validation using TensorFlow/Keras
 
 🏗️ Model Architecture
 
 VGG16 (pre-trained on ImageNet)
+
 Custom fully connected layers
+
 Softmax output for multi-class classification
 
 🚀 Technologies Used
 
 Python
+
 TensorFlow / Keras
+
 KaggleHub
+
 Matplotlib
 
 📈 Results: The model achieves reliable classification accuracy on the validation dataset and demonstrates effective generalization on unseen images.
