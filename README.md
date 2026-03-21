@@ -5,7 +5,7 @@
 📊 Dataset Source: Kaggle
 
 Dataset Name: Guava Disease Dataset
-Link: [https://www.kaggle.com/datasets/asadullahgalib/guava-disease-datase](https://www.kaggle.com/datasets/asadullahgalib/guava-disease-dataset)
+[https://www.kaggle.com/datasets/asadullahgalib/guava-disease-datase](https://www.kaggle.com/datasets/asadullahgalib/guava-disease-dataset)
 
 ⚠️ Dataset is not included in this repository due to size and licensing constraints.
 
