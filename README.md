@@ -1,6 +1,6 @@
 📌 **Guava Fruit Disease Detection using Deep Learning**
 
-🔍 Overview: This project implements a deep learning–based image classification system to detect diseases in guava fruits. The system uses transfer learning with a pre-trained VGG16 model to classify images into healthy and diseased categories.
+🔍 Overview: This project implements a deep learning–based image classification system to detect diseases in guava fruits. The system uses transfer learning with a pre-trained VGG16 model to classify images into three categories. 
 
 📊 Dataset Source: Kaggle
 
